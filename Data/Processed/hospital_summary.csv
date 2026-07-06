@@ -1,0 +1,9 @@
+hospital_id,hospital_name,city,total_admissions,unique_patients,readmission_rate,avg_los,avg_cost,total_cost
+1,MedNova Hospital - Hyderabad,Hyderabad,5258,4250,0.492392545,6.042411563,32436.32917,170550218.8
+5,MedNova Hospital - Mumbai,Mumbai,4981,4050,0.476611122,5.92933146,31138.39964,155100368.6
+2,MedNova Hospital - Bengaluru,Bengaluru,4457,3714,0.489342607,5.953107471,32763.45946,146026738.8
+3,MedNova Hospital - Chennai,Chennai,3689,3156,0.482786663,5.76416373,32626.69735,120359886.5
+6,MedNova Hospital - Delhi,Delhi,3581,3052,0.471655962,5.982407149,32921.62596,117892342.6
+4,MedNova Hospital - Pune,Pune,3238,2858,0.481778876,5.942865967,32679.59322,105816522.9
+7,MedNova Hospital - Vijayawada,Vijayawada,2663,2421,0.490424333,5.687570409,31908.44279,84972183.14
+8,MedNova Hospital - Warangal,Warangal,2133,1946,0.497421472,5.981715893,32841.94599,70051870.81
