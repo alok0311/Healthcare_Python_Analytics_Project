@@ -1,4 +1,4 @@
-# 🏥 Healthcare Python Analytics Project
+# 🏥 Healthcare Performance Analytics
 
 ## 📌 Project Overview
 
